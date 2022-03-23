@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dashboard-dc70f": {
+      "hosting": {
+        "dashboard": [
+          "dashboard-dc70f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dashboard-dc70f"
+  }
+}
